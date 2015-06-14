@@ -15,3 +15,11 @@ giants and dwarves <embed width="750" height="500" base="http://external.kongreg
 
 
 Don't look back <embed width="640" height="576" base="http://external.kongregate-games.com/gamez/0003/8903/live/" src="http://external.kongregate-games.com/gamez/0003/8903/live/embeddable_38903.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
+
+
+
+N <embed width="792" height="600" base="http://external.kongregate-games.com/gamez/0002/4483/live/" src="http://external.kongregate-games.com/gamez/0002/4483/live/embeddable_24483.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
+
+
+
+Kamikaze Pigs <embed width="720" height="480" base="http://external.kongregate-games.com/gamez/0014/6823/live/" src="http://external.kongregate-games.com/gamez/0014/6823/live/embeddable_146823.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
