@@ -27,3 +27,7 @@ Kamikaze Pigs <embed width="720" height="480" base="http://external.kongregate-g
 
 
 Heavy weapons <embed width="640" height="520" base="http://external.kongregate-games.com/gamez/0004/5284/live/" src="http://external.kongregate-games.com/gamez/0004/5284/live/embeddable_45284.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
+
+
+
+Clarence's big chance <embed width="736" height="512" base="http://external.kongregate-games.com/gamez/0010/5449/live/" src="http://external.kongregate-games.com/gamez/0010/5449/live/embeddable_105449.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
