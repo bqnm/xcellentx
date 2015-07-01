@@ -31,3 +31,7 @@ Heavy weapons <embed width="640" height="520" base="http://external.kongregate-g
 
 
 Clarence's big chance <embed width="736" height="512" base="http://external.kongregate-games.com/gamez/0010/5449/live/" src="http://external.kongregate-games.com/gamez/0010/5449/live/embeddable_105449.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
+
+
+
+Doodle God 2 <embed width="640" height="480" base="http://external.kongregate-games.com/gamez/0011/2240/live/" src="http://external.kongregate-games.com/gamez/0011/2240/live/embeddable_112240.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
